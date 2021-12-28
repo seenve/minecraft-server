@@ -1,0 +1,9 @@
+
+[general]
+	#a sample int value
+	#Range: -10 ~ 100
+	sample_value = 0
+	#one chance in x to cook a marshmallow every second
+	#Range: 1 ~ 10000
+	marshmallowCookTimer = 15
+

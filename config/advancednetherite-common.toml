@@ -1,0 +1,12 @@
+
+[common]
+
+	#Armor Config
+	[common.armor_config]
+		#If true, Endermans behave neutral towards players wearing Netherite/Emerald Armor. True by default.
+		emeraldEndermanPassiveArmor = true
+		#If true, Piglins behave neutral towards players wearing Netherite/Gold Armor. True by default.
+		goldPiglinPassiveArmor = true
+		#If true, Endermans and Piglins behave neutral towards players wearing Netherite/Diamond Armor. True by default.
+		diamondUltimatePassiveArmor = true
+
