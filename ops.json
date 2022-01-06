@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "09b76a85-1e5a-4e65-aadf-d7430beb1729",
+    "name": "Restart",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "b11829a6-48c3-3c27-af2b-802788ecdd0f",
     "name": "Seenve",
     "level": 4,

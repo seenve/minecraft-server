@@ -12,6 +12,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/granite_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
     "criteria": {
       "has_flower": "2021-12-27 00:43:06 +0300"
@@ -357,6 +363,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/bricks_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/cyan_picket_fence": {
     "criteria": {
       "has_concrete": "2021-12-27 00:41:59 +0300"
@@ -455,6 +467,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2021-12-27 10:47:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -669,6 +687,18 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/dark_prismarine_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2021-12-27 00:41:59 +0300"
@@ -880,10 +910,22 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/crimson_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_log": "2021-12-27 00:41:57 +0300",
       "has_planks": "2021-12-27 00:41:58 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_nether_bricks_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
     },
     "done": true
   },
@@ -914,6 +956,12 @@
       "has_warped_wart_block": "2021-12-27 00:41:58 +0300",
       "has_twisting_vines": "2021-12-27 00:41:59 +0300",
       "has_crying_obsidian": "2021-12-27 00:41:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -1021,6 +1069,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2021-12-27 11:09:35 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/warped_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
     },
     "done": true
   },
@@ -1224,6 +1278,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/basalt_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_log": "2021-12-27 00:41:58 +0300",
@@ -1415,6 +1475,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "morevillagers:map_endcity": {
     "criteria": {
       "hasmap": "2021-12-27 00:41:57 +0300"
@@ -1425,6 +1491,12 @@
     "criteria": {
       "has_log": "2021-12-27 00:41:59 +0300",
       "has_planks": "2021-12-27 00:41:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -2009,6 +2081,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/diorite_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/crimson_park_bench": {
     "criteria": {
       "has_log": "2021-12-27 00:41:58 +0300",
@@ -2187,6 +2265,12 @@
       "has_bottom": "2021-12-27 00:41:57 +0300",
       "has_bucket": "2021-12-27 00:41:58 +0300",
       "has_top": "2021-12-27 00:41:58 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/end_stone_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
     },
     "done": true
   },
@@ -2409,6 +2493,18 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/purpur_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/obsidian_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_hedge": {
     "criteria": {
       "has_leaves": "2021-12-27 00:41:58 +0300"
@@ -2446,6 +2542,12 @@
     "criteria": {
       "has_log": "2021-12-27 00:41:59 +0300",
       "has_planks": "2021-12-27 00:41:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -2561,6 +2663,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/quartz_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2021-12-27 00:41:59 +0300"
@@ -2648,6 +2756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/andesite_chair": {
     "criteria": {
       "has_log": "2021-12-27 00:41:57 +0300",
@@ -2730,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-12-28 15:03:24 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_sofa": {
     "criteria": {
       "has_wool": "2021-12-27 00:41:57 +0300"
@@ -2794,6 +2914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_table": {
     "criteria": {
       "has_log": "2021-12-27 00:41:58 +0300",
@@ -2850,6 +2976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/orange_kitchen_sink": {
     "criteria": {
       "has_concrete": "2021-12-27 00:41:59 +0300",
@@ -2861,6 +2993,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-12-27 10:47:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -2908,10 +3046,28 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/red_sandstone_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_desk": {
     "criteria": {
       "has_log": "2021-12-27 00:41:59 +0300",
       "has_planks": "2021-12-27 00:41:57 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_sandstone_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/smooth_stone_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
     },
     "done": true
   },
@@ -2972,6 +3128,12 @@
   "corail_woodcutter:recipes/from_magic_planks": {
     "criteria": {
       "has_ingredient": "2021-12-27 00:41:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -3144,6 +3306,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_upgraded_fence": {
     "criteria": {
       "has_log": "2021-12-27 00:41:59 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-12-28 15:03:25 +0300"
     },
     "done": true
   },
@@ -3421,6 +3589,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/prismarine_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_postbox": "2021-12-27 00:41:58 +0300"
@@ -3456,6 +3630,12 @@
   "cfm:recipes/cfm/acacia_upgraded_fence": {
     "criteria": {
       "has_log": "2021-12-27 00:41:57 +0300"
+    },
+    "done": true
+  },
+  "goldenhopper:recipes/redstone/golden_hopper": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -3565,6 +3745,12 @@
   "cfm:recipes/cfm/spruce_hedge": {
     "criteria": {
       "has_leaves": "2021-12-27 00:41:59 +0300"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/blackstone_lantern": {
+    "criteria": {
+      "has_torch": "2021-12-28 15:03:23 +0300"
     },
     "done": true
   },
@@ -3712,6 +3898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_sink": {
     "criteria": {
       "has_concrete": "2021-12-27 00:41:59 +0300",
@@ -3790,6 +3982,12 @@
   "cfm:recipes/cfm/warped_blinds": {
     "criteria": {
       "has_log": "2021-12-27 00:41:57 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },
@@ -3935,6 +4133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-12-28 15:03:25 +0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_log": "2021-12-27 00:41:59 +0300",
@@ -4063,6 +4267,12 @@
     "criteria": {
       "has_log": "2021-12-27 00:41:59 +0300",
       "has_planks": "2021-12-27 00:41:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2021-12-28 15:03:24 +0300"
     },
     "done": true
   },

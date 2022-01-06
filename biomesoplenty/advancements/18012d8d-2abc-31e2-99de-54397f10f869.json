@@ -1,0 +1,3790 @@
+{
+  "cfm:recipes/cfm/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_yellow_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mahogany_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_umbran_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_redwood_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_hedge": {
+    "criteria": {
+      "has_leaves": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_green_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/frog_legs": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_hellbark_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2021-12-28 15:06:20 +0300",
+      "has_fillet_knife": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/worm_farm": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_fence_gate": {
+    "criteria": {
+      "has_bamboo": "2021-12-28 15:06:19 +0300",
+      "has_bundle": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/spruce_fish_mount": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_bundle": {
+    "criteria": {
+      "has_bamboo": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2021-12-28 15:06:19 +0300"
+    },
+    "done": false
+  },
+  "cfm:recipes/cfm/stripped_crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_bundle": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_purple_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/acacia_fish_mount": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/brown_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_ladder": {
+    "criteria": {
+      "has_bamboo": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/sculk_sensor": {
+    "criteria": {
+      "has_warped_wart_block": "2021-12-28 15:06:19 +0300",
+      "has_twisting_vines": "2021-12-28 15:06:20 +0300",
+      "has_crying_obsidian": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_lime_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_calendar": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_gray_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/redstone_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_pink_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_paper": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_bundle_uncrafting": {
+    "criteria": {
+      "has_bundle": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_brown_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice_from_freezing": {
+    "criteria": {
+      "has_ice": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:map_endcity": {
+    "criteria": {
+      "hasmap": "2021-12-28 15:06:19 +0300"
+    },
+    "done": false
+  },
+  "cfm:recipes/cfm/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/diamond_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs_from_campfire": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_magenta_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/sushi": {
+    "criteria": {
+      "has_alt_items": "2021-12-28 15:06:20 +0300",
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dead_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_slab": {
+    "criteria": {
+      "has_bundle": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2021-12-28 15:06:20 +0300",
+      "has_fillet_knife": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/heavy_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2021-12-28 15:06:19 +0300",
+      "has_campfire": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/double_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/post_box": {
+    "criteria": {
+      "has_shulker_box": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/birch_fish_mount": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/bobber": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_ender_eye": "2021-12-28 15:06:20 +0300",
+      "has_totem": "2021-12-28 15:06:20 +0300",
+      "has_chorus_fruit": "2021-12-28 15:06:19 +0300",
+      "has_emerald": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_willow_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aritsumods:camping/root": {
+    "criteria": {
+      "chest": "2021-12-28 15:06:20 +0300",
+      "legs": "2021-12-28 15:06:20 +0300",
+      "helmet": "2021-12-28 15:06:19 +0300",
+      "boots": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/note_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_hedge": {
+    "criteria": {
+      "has_leaves": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_door": {
+    "criteria": {
+      "has_bundle": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jacaranda_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/trampoline": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_hedge": {
+    "criteria": {
+      "has_leaves": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/rock_path": {
+    "criteria": {
+      "has_stone": "2021-12-28 15:06:20 +0300",
+      "has_andesite": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs_from_smoking": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300",
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/powder_snow": {
+    "criteria": {
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_snow_block": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/gold_nugget_from_gold_fish": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/light_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_palm_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_vanilla_rod": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/red_mushroom_from_fish": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_hedge": {
+    "criteria": {
+      "has_leaves": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_magic_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_fishing_rod": "2021-12-28 15:06:20 +0300",
+      "has_fillet_knife": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/building_blocks/planks_from_driftwood": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/blue_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "morevillagers:map_bastion": {
+    "criteria": {
+      "hasmap": "2021-12-28 15:06:20 +0300"
+    },
+    "done": false
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_gray_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/fishing_line": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_orange_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/neptinium_ingot_from_blasting": {
+    "criteria": {
+      "has_leggings": "2021-12-28 15:06:20 +0300",
+      "has_axe": "2021-12-28 15:06:20 +0300",
+      "has_helmet": "2021-12-28 15:06:19 +0300",
+      "has_fishing_rod": "2021-12-28 15:06:20 +0300",
+      "has_bow": "2021-12-28 15:06:19 +0300",
+      "has_chestplate": "2021-12-28 15:06:20 +0300",
+      "has_sword": "2021-12-28 15:06:20 +0300",
+      "has_fillet_knife": "2021-12-28 15:06:20 +0300",
+      "has_shovel": "2021-12-28 15:06:20 +0300",
+      "has_hoe": "2021-12-28 15:06:19 +0300",
+      "has_boots": "2021-12-28 15:06:20 +0300",
+      "has_pickaxe": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_fence": {
+    "criteria": {
+      "has_bamboo": "2021-12-28 15:06:20 +0300",
+      "has_bundle": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_frog_legs": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_picket_fence": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/food/cooked_fish_fillet": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_green_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/gold_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_fir_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_light_blue_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_hedge": {
+    "criteria": {
+      "has_leaves": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_hedge": {
+    "criteria": {
+      "has_leaves": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "glumbis:main/root": {
+    "criteria": {
+      "inventory_changed": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_gate": {
+    "criteria": {
+      "has_gate": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/tin_can_to_iron_nugget": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_cooler": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_blue_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_crate": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_fishing_rod": "2021-12-28 15:06:20 +0300",
+      "has_fillet_knife": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/granite_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/oak_fish_mount": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/dark_oak_fish_mount": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "bambooeverything:recipes/bamboo_stairs": {
+    "criteria": {
+      "has_bundle": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/jungle_desk": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_mail_box": {
+    "criteria": {
+      "has_postbox": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/green_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_kitchen_counter": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300",
+      "has_stone": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/andesite_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_kitchen_sink": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/cyan_grill": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/decorations/jungle_fish_mount": {
+    "criteria": {
+      "has_items": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_kitchen_drawer": {
+    "criteria": {
+      "has_terracotta": "2021-12-28 15:06:20 +0300",
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_chair": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/magenta_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "forgottenrecipes:recipes/bundle": {
+    "criteria": {
+      "has_string": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stone_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300",
+      "has_planks": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_acacia_blinds": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/diorite_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_cyan_picket_fence": {
+    "criteria": {
+      "has_fence": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_picket_gate": {
+    "criteria": {
+      "has_concrete": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_sofa": {
+    "criteria": {
+      "has_wool": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:20 +0300",
+      "has_bucket": "2021-12-28 15:06:19 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2021-12-28 15:06:19 +0300",
+      "has_bucket": "2021-12-28 15:06:20 +0300",
+      "has_top": "2021-12-28 15:06:20 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_counter": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/oak_coffee_table": {
+    "criteria": {
+      "has_log": "2021-12-28 15:06:19 +0300",
+      "has_planks": "2021-12-28 15:06:19 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}
